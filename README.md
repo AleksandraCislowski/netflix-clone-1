@@ -1,6 +1,6 @@
 # "Netflix clone 1!"
 
-Simply Netflix clone, connected with movie database API.
+Simple Netflix clone, connected with movie database API.
 
 ## HOW THIS WORKS?
 
